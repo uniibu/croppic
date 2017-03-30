@@ -9,14 +9,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "license": "MIT",
-  "dependencies": {
-    "bootstrap": "^3.3.7",
-    "bootstrap-tagsinput": "^0.7.1",
-    "font-awesome": "^4.7.0",
-    "jquery": "^2.2.4",
-    "responsive-toolkit": "^2.6.3",
-    "simplePagination.js": "git+https://github.com/uniibu/simplePagination.js.git"
-  },
    "dependencies": {
     "jquery-mousewheel": "~3.1.12",
 	  "jquery": ">= 2.1.3"	
